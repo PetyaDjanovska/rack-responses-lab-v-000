@@ -5,4 +5,6 @@ def call(env)
      else
        resp.write "Good afternoon!"
      end
+
+     resp.finish
 end

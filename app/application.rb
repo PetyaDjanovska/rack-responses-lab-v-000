@@ -4,3 +4,4 @@ def call(env)
        resp.write "Good morning!"
      else
        resp.write "Good afternoon!"
+     end
